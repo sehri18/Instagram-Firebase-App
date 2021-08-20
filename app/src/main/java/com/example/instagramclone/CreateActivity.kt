@@ -22,7 +22,7 @@ private const val PICK_PHOTO_CODE = 1234
 
 class CreateActivity : AppCompatActivity() {
 
-
+//Variables defined
     private var photoUri : Uri? = null
     private var signedInUser: User? = null
     private lateinit var firestoreDb : FirebaseFirestore
