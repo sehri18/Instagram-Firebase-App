@@ -23,6 +23,6 @@ Various Firebase services such as Authentication, Storage, and Firestore are use
 
  #### Upload Image Screen with description
  
-<img src ="https://user-images.githubusercontent.com/55605130/134971693-67b9bde4-88c2-45c8-81cc-d179472b48fc.jpg" width=20% height= 20%>                     <img src ="https://user-images.githubusercontent.com/55605130/134971846-5430e4de-9f75-492a-a722-42a56253ea1c.jpg" width=15% height= 15%> 
+<img src ="https://user-images.githubusercontent.com/55605130/134971693-67b9bde4-88c2-45c8-81cc-d179472b48fc.jpg" width=20% height= 20%>                     <img src ="https://user-images.githubusercontent.com/55605130/134971846-5430e4de-9f75-492a-a722-42a56253ea1c.jpg" width=20% height= 15%> 
   
   
